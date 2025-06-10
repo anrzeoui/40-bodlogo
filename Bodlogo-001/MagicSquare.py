@@ -4,12 +4,6 @@ import random
 import re
 import sys
 
-#
-# Complete the 'formingMagicSquare' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts 2D_INTEGER_ARRAY s as parameter.
-#
 def getCost(arr,magic):
     cost = 0
     for i in range(3):
