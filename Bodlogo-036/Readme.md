@@ -1,0 +1,1 @@
+[Бодлого](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true)

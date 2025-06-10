@@ -1,0 +1,1 @@
+[Бодлого](https://www.hackerrank.com/challenges/and-product/problem?isFullScreen=true)

@@ -1,0 +1,1 @@
+[Бодлого](https://www.hackerrank.com/challenges/the-great-xor/problem?isFullScreen=true)
