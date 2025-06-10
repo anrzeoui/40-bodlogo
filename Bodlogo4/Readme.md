@@ -1,0 +1,1 @@
+[Бодлого](https://www.hackerrank.com/challenges/absolute-permutation/problem?isFullScreen=true)
