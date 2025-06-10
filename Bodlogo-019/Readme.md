@@ -1,0 +1,1 @@
+[Бодлого](https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true)
