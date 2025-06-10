@@ -1,1 +1,2 @@
-Hi 40 bodlogo
+
+[Бодлого](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)
