@@ -1,4 +1,4 @@
-[Бодлого](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true)
+[Бодлого](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true) Almost Sorted
 
 
 Танд нэг мөрийн (array) бүхэл тоонуудын массив өгөгдөнө. Та зарагдах дарааллыг (өсөх дараалалтай) болгохын тулд нэг л удаа дараах хоёр үйлдлийн аль нэгийг хийх боломжтой:
