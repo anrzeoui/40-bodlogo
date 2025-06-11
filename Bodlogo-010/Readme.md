@@ -1,1 +1,9 @@
-[Бодлого](https://www.hackerrank.com/challenges/lilys-homework/problem?isFullScreen=true)
+[Бодлого](https://www.hackerrank.com/challenges/lilys-homework/problem?isFullScreen=true) Lily's Homework
+
+Танд n хэмжээтэй бүхэл тоонуудын массив өгөгдөнө. Лилигийн гэрийн даалгавар нь энэ массивыг сортлогдсон (өсөх дараалалтай) болгож, хамгийн бага тооны swap (солилцоо) хийх явдал юм.
+
+Үйлдлийн журам:
+
+Солилцоо хийх: Массивын хоёр элементийг байрлалаа солих.
+
+Үр дүн: Массивыг өсөх дараалалтай болгож, хамгийн бага swap-уудыг хийх.
