@@ -1,1 +1,9 @@
-[Бодлого](https://www.hackerrank.com/challenges/countingsort4/problem?isFullScreen=true)
+[Бодлого](https://www.hackerrank.com/challenges/countingsort4/problem?isFullScreen=true) Full Soring Count
+
+Танд n ширхэг "integer string" хос (жишээ нь: 3 abc) өгөгдөнө. Эдгээрийг integer-ийн дагуу дараалаллах хэрэгтэй, гэхдээ:
+
+Хэрвээ integer нь давтагдвал, strings-ийг эхний байршилаараа хэвлэх буюу тогтвортой (stable) байдлаар хадгална.
+
+Нэг онцгой шаардлага: ориг эхний талын n/2 мөрийн string-үүдийг хамгаас эхэнд "-" (безийн тэмдэг) болгож өөрчилнө.
+
+Үүний дараа бүхэл дараалалд байгаа string-үүдийг integer-ийн өслөх дараалийн журамд, integer-үүд нь тэнцүү байвал эхнийхээ хэвэнд, "-", эсвэл бодит утгыг солонгорон хэвлэнэ.
