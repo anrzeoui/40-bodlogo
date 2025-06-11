@@ -1,4 +1,4 @@
-[Бодлого](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)
+[Бодлого](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true) Bigger is greater
 
 Танд нэг тэмдэгт мөр өгөгдөнө. Та түүнээс дараагийн хамгийн бага үсгийн хувилбар (lexicographically larger string) олох хэрэгтэй.
 
